@@ -616,3 +616,83 @@ object {
 .infinity-end.neverending .site-footer {
 	display: block;
 }
+
+
+/* Estrutura de página */
+.site {
+	padding: 0 24px;
+	padding: 0 1.714285714rem;
+	background-color: #fff;
+}
+.site-content {
+	margin: 24px 0 0;
+	margin: 1.714285714rem 0 0;
+}
+.widget-area {
+	margin: 24px 0 0;
+	margin: 1.714285714rem 0 0;
+}
+
+
+/* =Home
+----------------------------------------------- */
+
+
+.site-header-home {
+	background: url(images/xxx.jpg) no-repeat #eee;
+	width: 960px;
+}
+
+.descricao-cabecalho {
+	width: 350px;
+	height: 200px;
+	float: left;
+	background: #eee;
+}
+
+.logo-link-home {
+	width: 350px;
+	height: 200px;
+	float: left;
+	background: url(images/xxx.jpg) no-repeat #eee
+}
+
+.colecao-educacao {
+
+}
+
+.cartazes {
+
+}
+
+.guias {
+
+}
+
+.videos {
+
+}
+
+.eixos {
+
+}
+
+.caixa-eixo {
+
+}
+
+.slider {
+
+}
+
+.footer {
+
+}
+
+.texto-footer {
+
+}
+
+.link-redes-sociais {
+
+}
